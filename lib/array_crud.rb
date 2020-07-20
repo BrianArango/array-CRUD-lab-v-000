@@ -1,3 +1,4 @@
+=begin
 def create_an_empty_array
   []
 end
@@ -33,6 +34,7 @@ end
 def retrieve_last_element_from_array(array)
   array.pop
 end
+=end
   
   
   
