@@ -37,6 +37,7 @@ end
 =end
 
 def creating_an_empty_array
+  []
 end
   
   
