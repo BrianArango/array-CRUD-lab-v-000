@@ -48,6 +48,10 @@ def add_element_to_end_of_array(array, element)
   array = element
   [] << array 
 end
+
+def add_element_to_end_of_array(array, element)
+  array << element
+end
   
   
   
