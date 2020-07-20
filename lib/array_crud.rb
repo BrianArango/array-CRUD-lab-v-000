@@ -36,7 +36,7 @@ def retrieve_last_element_from_array(array)
 end
 =end
 
-def creating_an_empty_array
+def create_an_empty_array
   []
 end
   
