@@ -35,6 +35,16 @@ def retrieve_last_element_from_array(array)
   array.pop
 end
 =end
+
+def creating_an_empty_arra
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
