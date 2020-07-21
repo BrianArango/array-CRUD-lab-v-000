@@ -67,9 +67,8 @@ def retrieve_element_from_index(array, index)
   num
 end
 
-def retrieve_first_element_from_array(array, index)
-  array = [index]
-  array
+def retrieve_first_element_from_array(array)
+  array.unshift
 end
   
   
