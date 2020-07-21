@@ -64,7 +64,7 @@ end
 
 def retrieve_element_from_index(array, index)
   array = index
-  array[2]
+  array.unshift
 end
   
   
