@@ -68,11 +68,11 @@ def retrieve_element_from_index(array, index)
 end
 
 def retrieve_first_element_from_array(array)
-  #array.shift
+  array.shift
 end
   
 def retrieve_last_element_from_array(array)
-  #array.pop
+  array.pop
 end
   
   
